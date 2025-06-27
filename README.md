@@ -28,10 +28,10 @@ Pour l'installation c'est très simple.
 
 1. Télécharger l'APK : Téléchargez le fichier revision-app.apk sur votre ordinateur.
 
-Transférer l'APK vers votre smartphone : Connectez votre smartphone à votre ordinateur via un câble USB (ou bluetooth) et transférez le fichier .apk.
+2. Transférer l'APK vers votre smartphone : Connectez votre smartphone à votre ordinateur via un câble USB (ou bluetooth) et transférez le fichier .apk.
 
-Autoriser l'installation d'applications inconnues : Sur votre smartphone, activez l'option permettant l'installation d'applications provenant de sources inconnues.
+3. Autoriser l'installation d'applications inconnues : Sur votre smartphone, activez l'option permettant l'installation d'applications provenant de sources inconnues.
 
-Lancer l'installation : Utilisez le gestionnaire de fichiers sur votre smartphone pour localiser le fichier que vous venez de transférer et tapez dessus pour démarrer l'installation.
+4. Lancer l'installation : Utilisez le gestionnaire de fichiers sur votre smartphone pour localiser le fichier que vous venez de transférer et tapez dessus pour démarrer l'installation.
 
-Ouvrir l'application : Une fois installée, l'application sera disponible sur votre écran d'accueil. Vous pouvez la lancer.
+5. Ouvrir l'application : Une fois installée, l'application sera disponible sur votre écran d'accueil. Vous pouvez la lancer.
